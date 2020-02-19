@@ -74,3 +74,12 @@
     margin-right: 0;
     margin-left: 0;
 }
+.emag-credit {
+    font-weight: 700;
+    margin-top: 60px;
+    padding-left: 15px;
+    border-left: solid 4px #d7bd8a;
+}
+.emag-credit p {
+    margin-bottom: 0;
+}

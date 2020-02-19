@@ -26,3 +26,11 @@
     margin-bottom: 30px;
     padding: 0 15px;
 }
+.emag-credit {
+    font-weight: 700;
+    margin-top: 60px;
+    border-left: solid 4px #d7bd8a;
+}
+.emag-credit p {
+    margin-bottom: 0;
+}
